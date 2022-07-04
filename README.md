@@ -1,8 +1,8 @@
 # Nodemailer - app-password
 
-- [Login to your Google account]() 
-- [Select app and device]()
-- [Generate app password]()
+- [Login to your Google account](https://github.com/erinerinchan/Nodemailer---app-password/blob/main/README.md#login-to-your-google-account) 
+- [Select app and device](https://github.com/erinerinchan/Nodemailer---app-password/blob/main/README.md#select-app-and-device)
+- [Generate app password](https://github.com/erinerinchan/Nodemailer---app-password/blob/main/README.md#generate-app-password)
 
 ## Login to your Google account 
 

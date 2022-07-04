@@ -8,17 +8,17 @@
 
 ## Select app and device 
 
-![app1-01](https://user-images.githubusercontent.com/35587864/177155563-6aa71137-3c5a-4fdb-839f-96d1748b5d76.png)
-
 Select `*Other (custom name)*` as `app`. 
 
-![app2](https://user-images.githubusercontent.com/35587864/177155611-90958b24-9324-457b-aea8-1f493ffc7c2c.png)
+![app1-01](https://user-images.githubusercontent.com/35587864/177155852-b8b9ed0d-2fa1-4bad-b2e2-2913c0ac40c1.png)
 
 Make up a name you want for the app, e.g. Nodemailer. 
 
-![app3](https://user-images.githubusercontent.com/35587864/177155657-49df044d-c4b3-4447-aedf-dc6edcc2b7c2.png)
+![app2](https://user-images.githubusercontent.com/35587864/177155953-9ceb2351-15c4-47bb-b5a7-3771358e6ae9.png)
 
 ## Generate app password 
 Click `GENERATE`, and an app password for your device will show up in a modal. 
 
-![app4](https://user-images.githubusercontent.com/35587864/177155696-7b5a4bd8-0846-4b47-bfa3-4f445475074d.png)
+![app3](https://user-images.githubusercontent.com/35587864/177155977-eeee0c78-f11e-4a69-a69d-cb89614c5374.png)
+
+![app4](https://user-images.githubusercontent.com/35587864/177155995-ff39a1c3-236f-437c-b353-52eea9ef18de.png)

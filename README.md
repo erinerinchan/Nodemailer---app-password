@@ -6,9 +6,11 @@
 
 ## Login to your Google account 
 
+Visit the link [here](https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fmyaccount.google.com%2Fapppasswords&service=accountsettings&osid=1&rart=ANgoxceBEygYKYCvWiOIqHWjwA-zh24dU3FOBy_5FKAE9t4tD_V64VwAke8g3M87xmViFniBCZfGiG3q4KafxQv93-GEQqX_sg&TL=AM3QAYaS1VQi0Efju4oEZdVnxsK9O4dLk1E9GJe1mxbzveRbmP0asToEg49tqA_K&flowName=GlifWebSignIn&cid=1&flowEntry=ServiceLogin) and login to your Google account. 
+
 ## Select app and device 
 
-Select `*Other (custom name)*` as `app`. 
+Select `Other (custom name)` as `app`. 
 
 ![app1-01](https://user-images.githubusercontent.com/35587864/177155852-b8b9ed0d-2fa1-4bad-b2e2-2913c0ac40c1.png)
 
